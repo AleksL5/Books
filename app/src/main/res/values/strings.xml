@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="loading_failed">Ошибка выполнения запроса,\n попробуйте повторить</string>
+    <string name="retry">Попробовать ещё</string>
+    <string name="loading">Loading</string>
+    <string name="content_description">Book</string>
+    <string name="write_book_name">Введите название книги,\n которую ищете</string>
+    <string name="no_favorites">Раздел пуст</string>
+    <string name="favorite">Избранное</string>
+
+</resources>
